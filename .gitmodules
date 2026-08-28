@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sep-es-br/openpmo-api
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sep-es-br/openpmo-web
+	branch = main
