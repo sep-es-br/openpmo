@@ -6,3 +6,7 @@
 	path = frontend
 	url = https://github.com/sep-es-br/openpmo-web
 	branch = main
+[submodule "backend-plugins"]
+	path = backend-plugins
+	url = https://github.com/sep-es-br/openpmo-backend-plugins
+	branch = main
